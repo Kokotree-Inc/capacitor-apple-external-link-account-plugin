@@ -1,6 +1,6 @@
 {
   "name": "@kokotree-inc/capacitor-plugin-apple-storekit-external-link-account",
-  "version": "0.0.2",
+  "version": "1.0.2",
   "description": "Capacitor plugin for Apple platforms that provides external link account functionality using StoreKit.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
